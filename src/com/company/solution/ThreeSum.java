@@ -1,4 +1,4 @@
-package com.company;
+package com.company.solution;
 
 import java.sql.Array;
 import java.util.Arrays;
