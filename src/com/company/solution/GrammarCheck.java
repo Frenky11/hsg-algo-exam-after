@@ -1,4 +1,4 @@
-package com.company;
+package com.company.solution;
 
 public class GrammarCheck {
     public static void main(String[] args) {
